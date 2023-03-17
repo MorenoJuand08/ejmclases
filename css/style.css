@@ -1,5 +1,5 @@
 body {
-    background-color: #51b7bb;
+    background-color: #2c2c4d;
 }
 
 img {
@@ -9,4 +9,21 @@ img {
 
 tr:hover{
     background-color: rgb(6, 93, 128);
+}
+
+input{
+    border-radius: 5px;
+    border: 3px solid rgb(24, 7, 126);
+    background-color: rgb(100, 126, 116);
+}
+
+.tipoinputs{
+    background-color: rgb(99, 33, 7);
+}
+
+#nombrepersona{
+    height: 50px;
+}
+h1{
+    background-color: rgb(13, 128, 128);
 }
