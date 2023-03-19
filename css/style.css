@@ -1,5 +1,5 @@
 body {
-    background-color: #2c2c4d;
+    background-color: #d7d7ff;
 }
 
 img {
@@ -8,7 +8,7 @@ img {
 }
 
 tr:hover{
-    background-color: rgb(6, 93, 128);
+    background-color: rgb(170, 208, 223);
 }
 
 input{
