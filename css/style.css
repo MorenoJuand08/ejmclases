@@ -14,15 +14,17 @@ tr:hover{
 input{
     border-radius: 5px;
     border: 3px solid rgb(24, 7, 126);
-    background-color: rgb(100, 126, 116);
+    background-color: rgb(234, 255, 247);
 }
 
 .tipoinputs{
-    background-color: rgb(99, 33, 7);
+    background-color: rgb(255, 215, 199);
 }
 
-#nombrepersona{
-    height: 50px;
+.inputs-2{
+    background-color: thistle;
+    font-family: fantasy;
+    font-size: small;
 }
 h1{
     background-color: rgb(13, 128, 128);
